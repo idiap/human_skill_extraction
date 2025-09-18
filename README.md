@@ -6,5 +6,5 @@ These resources will also refer to our related paper **"Comparing AI-based Appro
 
 By [Laura Vásquez-Rodríguez](https://www.linkedin.com/in/lmvasque/), [Bertrand Audrin](https://www.linkedin.com/in/bertrand-audrin/), [Samuel Michel](https://www.linkedin.com/in/sam-mchl/), [Samuele Galli](https://www.linkedin.com/in/samuele-galli/), [Julneth Rogenhofer](https://www.linkedin.com/in/julneth-rogenhofer/), [Jacopo Negro Cusa](https://www.linkedin.com/in/jacoponegrocusa/) and [Lonneke van der Plas](https://www.linkedin.com/in/lvdplas/). 
 
-We will soon release our code and outputs as possible. These are currently under review, so in the meantime, stay tuned! :blush: :soon:
+We will soon release our human and system outputs. These are currently under review, so in the meantime, stay tuned! :blush: :soon:
 
